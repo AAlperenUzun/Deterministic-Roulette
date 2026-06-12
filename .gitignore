@@ -67,6 +67,12 @@ ExportedObj/
 # Unity3D generated file on crash reports
 sysinfo.txt
 
+# Claude Code local settings
+.claude/
+
+# Headless capture output
+/[Cc]aptures/
+
 # Mono auto generated files
 mono_crash.*
 
